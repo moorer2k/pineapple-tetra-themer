@@ -17,3 +17,4 @@ Your index file will automatically be backed up in the /pineapple directory as i
 
 ![image](https://user-images.githubusercontent.com/2856413/35488461-50f4e4fe-043e-11e8-874a-adad10cd8614.png)
 ![image](https://user-images.githubusercontent.com/2856413/35488463-5788aa6c-043e-11e8-99d4-7c6cc3c64625.png)
+![image](https://user-images.githubusercontent.com/2856413/35488476-88b94830-043e-11e8-8741-291a81c53b0a.png)
