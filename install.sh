@@ -1,0 +1,1 @@
+cp -r index.html js/ /pineapple/
